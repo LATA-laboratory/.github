@@ -1,4 +1,4 @@
-# WARNING: THIS IS A PARODY
+# WARNING: This is not a real laboratory
 
 <img width="400" src="https://github.com/LATA-laboratory/.github/blob/main/imgs/warning.jfif" align="center" />
 
