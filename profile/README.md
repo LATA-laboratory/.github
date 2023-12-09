@@ -10,7 +10,7 @@ Please understand that:
 
 - All ***content*** on this organization ***does not exist*** in real life.
 
-- LAPA - Environmental Laboratory for Water Treatment, is ***not a real laboratory***
+- LATA - Environmental Laboratory for Water Treatment, is ***not a real laboratory***
 
 - All ***researchers*** mentioned are ***not real***
 
