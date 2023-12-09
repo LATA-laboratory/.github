@@ -16,7 +16,7 @@ Please understand that:
 
 - ***None*** of the ***publications exist*** in real life
 
-This organization only contains repositories containing websites for a laboratory. It presents some possibilities of what can be done with [hugo](https://gohugo.io/) + [HugoBlox](https://hugoblox.com/) and [blogdown](https://cran.r-project.org/web/packages/blogdown/index.html).
+This organization only contains repositories with websites for a *laboratory*. It presents some possibilities of what can be done with [hugo](https://gohugo.io/) + [HugoBlox](https://hugoblox.com/) and [blogdown](https://cran.r-project.org/web/packages/blogdown/index.html).
 
 
 
